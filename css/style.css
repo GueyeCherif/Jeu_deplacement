@@ -1,0 +1,44 @@
+canvas{
+    position: absolute;
+    float: left;
+    left: 35%;
+    top: 20%;
+    background-color:gainsboro;
+    
+}
+h1{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    float: left;
+    left:45%;
+}
+.gauche{
+    position: absolute;
+    float: left;
+    left: 46%;
+    top: 10%;
+}
+.haut{
+    position: absolute;
+    float: left;
+    left: 48%;
+    top: 7%;
+}
+.bas{
+    position: absolute;
+    float: left;
+    left: 48%;
+    top: 13%;
+}
+.droite{
+    position: absolute;
+    float: left;
+    left: 49%;
+    top: 10%;
+}
+.direction{
+    color: rgb(112, 18, 236);
+    font-size: 24px;
+}
